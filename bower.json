@@ -6,8 +6,7 @@
     "css/styles.css"
   ],
   "dependencies": {
-    "jquery": "~1.12",
-    "bootstrap": "~3"
+    "bootstrap": "3"
   },
   "keywords": [
     "decision",
