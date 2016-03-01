@@ -6,12 +6,16 @@
     "css/styles.css"
   ],
   "dependencies": {
-    "jquery": "1.12.1"
+    "jquery": "1.12.1",
+    "bootstrap": "~3"
   },
   "keywords": [
     "decision",
     "tree",
-    "jquery"
+    "questions",
+    "question",
+    "jquery",
+    "plugin"
   ],
   "authors": [
     "Mariusz Soltys"

@@ -4,3 +4,6 @@
 
 ### Bower Installation (Preferred)
 
+```
+bower install jquery-decision-tree
+```
