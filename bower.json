@@ -8,7 +8,6 @@
   "dependencies": {
     "jquery": "1.12.1"
   },
-  "moduleType": [],
   "keywords": [
     "decision",
     "tree",
