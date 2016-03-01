@@ -1,0 +1,22 @@
+{
+  "name": "js-decision-tree",
+  "description": "jQuery plugin creating simple questions based decision tree",
+  "main": [
+    "js/tree.js",
+    "css/styles.css"
+  ],
+  "dependencies": {
+    "jquery": "1.12.1"
+  },
+  "moduleType": [],
+  "keywords": [
+    "decision",
+    "tree",
+    "jquery"
+  ],
+  "authors": [
+    "Mariusz Soltys"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/marsoltys"
+}
