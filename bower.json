@@ -6,7 +6,7 @@
     "css/styles.css"
   ],
   "dependencies": {
-    "bootstrap": "~v3.3.6"
+    "bootstrap": "~v3.3.5"
   },
   "keywords": [
     "decision",
